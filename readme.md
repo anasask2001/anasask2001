@@ -1,27 +1,75 @@
+<div align="center">
+  <img width="100%" src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/0551e0a2-32ef-440a-9335-ca40f3e0b797"  />
+</div>
+<h3 align="left">About Me</h3>
+<p align="left"></p>
 
- <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
+- 🌱 I’m currently learning NodeJS/ExpressJS
+- 🔭 I’m currently working on Procurement Project & Student Management System Parallely
+- 💬 Ask me about **Python, Django, Django REST Framework, REST API, Javascript, React JS, Redux, Vue JS**
+- 📫 How to reach me **thouseefhamza.codes@gmail.com**
+- 📄 Know about my experiences [https://flowcv.me/thouseef-django-react-developer](https://flowcv.me/thouseef-django-react-developer)
+- ⚡ Interest **Blog- Dev,Medium**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/thousi_731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thousi_731" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thousi-thouseef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thousi-thouseef" height="30" width="40" /></a>
+<a href="https://instagram.com/thousii_554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thousii_554" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/thousi_731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thousi_731" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
     </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+    <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="62" height="62" />
       <br>REST API
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="62" height="62" />
       <br>Redux Toolkit
     </td>
     <td align="center" width="96">
-        <img src="https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif" width="48" height="48" alt="PostgreSQL" />
-      <br>Golang
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+      <br>Redis
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="62" height="62" />
+      <br>Nginx
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
@@ -46,13 +94,24 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
-   
-  </tr>
- <tr>
-   <td align="center" width="96">
+    <td align="center" width="96">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  /> 
       <br>Material Ui
     </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+      <br>Postman
+    </td>
+      <td align="center" width="96">
+       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+      <br>Figma
+    </td>
+    </td>
+      <td align="center" width="96">
+       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+      <br>SQLite
     </td>
     </td>
       <td align="center" width="96">
@@ -65,57 +124,59 @@
       <br>Prettier
     </td>
     </td>
+      <td align="center" width="96">
+       <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/b7ea9dae-7907-48b2-a3fb-0673f4eff363" alt="icon" width="62" height="62"  />
+      <br>Swagger API
+    </td>
+    </td>
+      <td align="center" width="96">
+       <img src="http://jwt.io/img/icon.svg" alt="icon" width="62" height="62"  />
+      <br>JWT
+    </td>
+    </td>
+      <td align="center" width="96">
+       <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/0ba3427b-823d-417a-b363-ba71a8bf708d" alt="icon" width="62" height="62"  />
+      <br>Agora
+    </td>
+    </td>
+      <td align="center" width="96">
+       <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/5eeac37f-2378-4d06-9399-29dd46554ce9" alt="icon" width="62" height="62"  />
+      <br>PyTest
     </td>
  </tr>
+  <tr>
+     <td>
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
+    <td>
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+     <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" alt="icon" width="65" height="65" />
+      <br>Vue JS
+    </td>
+    <td>
+      <img src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/effd598b-922b-42ad-b520-189f1aec55fd" alt="icon" width="65" height="65" />
+      <br>Node JS
+    </td>
+    <td>
+      <img  src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/55b5a12d-c566-49bf-818e-6a6735284350" alt="icon" width="65" height="65" />
+      <br>ExpressJS
+    </td>
+    <td>
+      <img  src="https://github.com/user-attachments/assets/8b8130b9-04b4-420d-ad0e-cea85b35136a" alt="icon" width="65" height="65" />
+      <br>Sequelize
+    </td>
 
+    
+  </tr>
 </table>
+<br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thouseef-hamza&show_icons=true&locale=en&layout=compact" alt="thousi731" /></p>
 
-<h1 align="center">Hi 👋, I'm Salman Faris</h1>
-<h3 align="center">A passionate FullStack developer</h3>
-### 🔥 &nbsp; My Stats :
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thouseef-hamza&" alt="thousi731" /></p>
+  
 
 
-
-
-
-
-
-
-
-
-- 🔭 I’m currently working on **E-Commerce**
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://salmanfaris22.github.io/salmanfaris/](https://salmanfaris22.github.io/salmanfaris/)
-
-- 💬 Ask me about **MERN , GOlang**
-
-- 📫 How to reach me **salmanfariskalm@gmail.com**
-
-- ⚡ Fun fact **I Think I'm Funny**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/salman faris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman faris" height="30" width="40" /></a>
-<a href="https://instagram.com/salmanfarisz._____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salmanfarisz._____" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/salman faris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salman faris" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; align-items: flex-start; align: center">
-
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/salman567633800?theme=dark)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanfaris22&show_icons=true&locale=en&layout=compact" alt="salmanfaris22" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfaris22&" alt="salmanfaris22" /></p>
-
-
-![Footer](https://github.com/anasmalikp/anasmalikp/raw/main/footer.svg)
