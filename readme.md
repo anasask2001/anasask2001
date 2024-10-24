@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning NodeJS/ExpressJS
 - 🔭 I’m currently working on Procurement Project & Student Management System Parallely
 - 💬 Ask me about ** REST Framework, REST API, Javascript, React JS, Redux, Vue JS**
-- 📫 How to reach me **thouseefhamza.codes@gmail.com**
+- 📫 How to reach me **anasaskdev@gmail.com**
 - 📄 Know about my experiences [https://flowcv.me/thouseef-django-react-developer](https://flowcv.me/thouseef-django-react-developer)
 - ⚡ Interest **Blog- Dev,Medium**
 
