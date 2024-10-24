@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning NodeJS/ExpressJS
 - 🔭 I’m currently working on Procurement Project & Student Management System Parallely
-- 💬 Ask me about **Python, Django, Django REST Framework, REST API, Javascript, React JS, Redux, Vue JS**
+- 💬 Ask me about ** REST Framework, REST API, Javascript, React JS, Redux, Vue JS**
 - 📫 How to reach me **thouseefhamza.codes@gmail.com**
 - 📄 Know about my experiences [https://flowcv.me/thouseef-django-react-developer](https://flowcv.me/thouseef-django-react-developer)
 - ⚡ Interest **Blog- Dev,Medium**
@@ -16,7 +16,7 @@
 <a href="https://twitter.com/thousi_731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thousi_731" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thousi-thouseef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thousi-thouseef" height="30" width="40" /></a>
 <a href="https://instagram.com/thousii_554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thousii_554" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thousi_731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thousi_731" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/anas7950/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anas7950" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
