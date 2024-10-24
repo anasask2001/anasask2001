@@ -22,15 +22,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
+
+  
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="62" height="62" />
-      <br>REST API
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
-    </td>
+    </td> 
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
@@ -39,19 +37,44 @@
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="62" height="62" />
       <br>Redux Toolkit
     </td>
+       <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" alt="icon" width="65" height="65" />
+      <br>Vue JS
+    </td>
+       <td>
+      <img src="Next.js Logo" alt="icon" width="65" height="65" />
+      <br>Next JS
+    </td>
+
+    
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+
+    
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
+
+    
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
       <br>Redis
     </td>
+
+
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="62" height="62" />
+      <br>REST API
+    </td>
+
+    
   </tr>
+
+
+  
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
@@ -126,6 +149,9 @@
     </td>
     </td>
  </tr>
+
+
+ 
   <tr>
      <td>
       <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
@@ -135,10 +161,7 @@
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
-     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" alt="icon" width="65" height="65" />
-      <br>Vue JS
-    </td>
+  
     <td>
       <img src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/effd598b-922b-42ad-b520-189f1aec55fd" alt="icon" width="65" height="65" />
       <br>Node JS
